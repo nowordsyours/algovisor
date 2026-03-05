@@ -5,7 +5,9 @@
 
 
 **Understand your code's true performance instantly.** AlgoVisor is a powerful, client-side web application built for students and developers. Simply paste your algorithm, connect your Gemini API key securely, and instantly calculate precise Big-O metrics along with interactive execution graphs.
-🔔**How to get api? :**  
+---
+🔔**How to get api? :** [CLICK HERE!!!](https://github.com/nowordsyours/Algovisor/blob/19a156e45f65a5b4ee5b5a9fa1707b470b256d44/How-get-free-gemini-api.md)
+---
 🌐 **Live Demo:** [https://algovisor.netlify.app/](https://algovisor.netlify.app/)
 
 ---
